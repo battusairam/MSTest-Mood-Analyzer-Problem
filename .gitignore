@@ -4,6 +4,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # User-specific files
+*obj/
 *.rsuser
 *.suo
 *.user
@@ -13,7 +14,7 @@
 * bin/
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
-
+*.vs/MSTest-Mood-Analyzer-Problem
 # Mono auto generated files
 mono_crash.*
 
