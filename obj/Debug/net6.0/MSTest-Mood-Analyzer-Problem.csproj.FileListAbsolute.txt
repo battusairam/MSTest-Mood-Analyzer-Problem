@@ -1,5 +1,0 @@
-C:\Users\HP\OneDrive\Desktop\MSTest-Mood-Analyzer-Problem\obj\Debug\net6.0\MSTest-Mood-Analyzer-Problem.csproj.AssemblyReference.cache
-C:\Users\HP\OneDrive\Desktop\MSTest-Mood-Analyzer-Problem\obj\Debug\net6.0\MSTest-Mood-Analyzer-Problem.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\HP\OneDrive\Desktop\MSTest-Mood-Analyzer-Problem\obj\Debug\net6.0\MSTest-Mood-Analyzer-Problem.AssemblyInfoInputs.cache
-C:\Users\HP\OneDrive\Desktop\MSTest-Mood-Analyzer-Problem\obj\Debug\net6.0\MSTest-Mood-Analyzer-Problem.AssemblyInfo.cs
-C:\Users\HP\OneDrive\Desktop\MSTest-Mood-Analyzer-Problem\obj\Debug\net6.0\MSTest-Mood-Analyzer-Problem.csproj.CoreCompileInputs.cache
